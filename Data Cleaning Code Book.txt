@@ -1,0 +1,32 @@
+Data Cleaning Peer Graded Assignment Code Book
+
+Grouping variables
+subject: numbered 1-30, represents the 30 subject that took place in the experiment
+Activity: 1 of 6 activities that the subject partook in while wearing the samsung phone for measurement
+
+Data variables: All data variable for each subject begins with "Meanof_" as the measurement is an average acrossed each subject and activity
+
+
+These signals were used to estimate variables of the feature vector for each pattern:  
+'-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
+
+tBodyAcc-XYZ
+tGravityAcc-XYZ
+tBodyAccJerk-XYZ
+tBodyGyro-XYZ
+tBodyGyroJerk-XYZ
+tBodyAccMag
+tGravityAccMag
+tBodyAccJerkMag
+tBodyGyroMag
+tBodyGyroJerkMag
+fBodyAcc-XYZ
+fBodyAccJerk-XYZ
+fBodyGyro-XYZ
+fBodyAccMag
+fBodyAccJerkMag
+fBodyGyroMag
+fBodyGyroJerkMag
+
+mean(): Mean value
+std(): Standard deviation value
